@@ -1,0 +1,33 @@
+body {
+    font-family: 'Acme', sans-serif;
+    background-color:khaki;
+}
+
+.header_div {
+    background: white;
+    color: #ce2700;
+    text-align: center;
+}
+
+.header_div p {
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+#copyright_footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: violet;
+    line-height: 4;
+    text-align: center;
+}
